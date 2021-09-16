@@ -3,7 +3,6 @@
 //  avmorozova_6PW1
 //
 //  Created by Anastasia on 12.09.2021.
-//
 
 import UIKit
 
