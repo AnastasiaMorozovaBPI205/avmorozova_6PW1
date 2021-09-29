@@ -26,6 +26,7 @@ class ViewController: UIViewController {
         let button = sender as? UIButton
         button?.isEnabled = false
         
+        fillColorSet()
         UIView.animate(withDuration: 2, animations: {
             self.roundCornersSetColor()
         }) { completion in
